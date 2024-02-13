@@ -49,10 +49,6 @@ body{
 }
 
 
-.input-box input::placeholder {
-    color: #ffffff;
-}
-
 .wrapper .select{
     display: flex;
     justify-content: center;
